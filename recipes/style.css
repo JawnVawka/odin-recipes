@@ -1,0 +1,17 @@
+* {
+    font-family: "Helvetica Neue",Helvetica,Arial;
+}
+
+h1, h3, h4 {
+    color: rgb(65, 65, 65);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+ul, ol, p {
+    background-color: rgb(65, 65, 65);
+}
+
+li, p {
+    color: white;
+}

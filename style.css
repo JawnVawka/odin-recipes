@@ -1,0 +1,16 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial;
+    color: black;
+    text-transform: uppercase;
+}
+
+.main-title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+}
